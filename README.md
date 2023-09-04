@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases Market Basket Analysis in retail using [your technology/tool of choice]. Discover patterns in customer purchasing behavior to optimize sales and marketing strategies.
+This project showcases Market Basket Analysis in retail using Google colab and Supershoper Data. Discover patterns in customer purchasing behavior to optimize sales and marketing strategies.
 
 ## Usage
 
